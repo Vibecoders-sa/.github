@@ -2,7 +2,7 @@
   <img src="https://www.vibecoders.sa/logo.svg" alt="Vibecoders" height="64">
   <h3>We build apps, sites and AI systems, and teach your team to run them.</h3>
   <p>AI software house · Riyadh, Saudi Arabia</p>
-  <p>نبني التطبيقات والمواقع وأنظمة الذكاء الاصطناعي، ونعلّم فريقك تشغيلها.</p>
+  <p dir="rtl">نبني التطبيقات والمواقع وأنظمة الذكاء الاصطناعي، ونعلّم فريقك تشغيلها.</p>
   <a href="https://vibecoders.sa">Website</a> ·
   <a href="https://www.linkedin.com/company/vibecoders-sa">LinkedIn</a> ·
   <a href="https://x.com/vibecoders_sa">X</a> ·
